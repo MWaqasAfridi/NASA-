@@ -1,0 +1,43 @@
+@media only screen and (max-width:1020px) {
+    .menuu{
+        display: block !important;
+        color: white !important;
+        font-size: 30px;
+    }
+    .dropdown{
+        display: none;
+    }
+    .left-padding{
+        display: none;
+    }
+    .magnify{
+        display: block!important;
+        color: white;
+        font-size: 30px;
+    }
+    #white{
+        display: none;
+    }
+    #live-top{
+        display: none;
+    }
+
+}
+
+
+
+@media only screen and (min-width:300px)  and (max-width:450px)  {
+
+    .slider-text-font h1 {
+        font-size: 280%;
+    }
+
+    .slider-text-up span>p {
+
+    }
+
+
+
+
+
+}
